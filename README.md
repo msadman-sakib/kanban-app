@@ -1,2 +1,2 @@
-# kanban-task-tracker
+# kanban-app
 Kanban Task Tracker App
